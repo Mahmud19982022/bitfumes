@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>My first practice</h1> 
+    <h1>My first best  practice</h1> 
 </body>
 </html>
